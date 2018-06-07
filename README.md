@@ -15,7 +15,7 @@ I made `stephenlyu/goqtuic` and its dependencies owned by myself to nail them do
 A go lang uic for therecipe qt binding. Refer to: https://github.com/therecipe/qt
 
 - Install therecipe qt binding: https://github.com/therecipe/qt
-- Install goqtuic: `go get -u -v https://github.com/nanitefactory/goqtuic`
+- Install goqtuic: `go get -u -v github.com/nanitefactory/goqtuic`
 - Check goqtuic usage: `goqtuic -help`
 
 ---
