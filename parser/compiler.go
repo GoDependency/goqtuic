@@ -11,7 +11,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/nanitefactory/log"
+	"github.com/godependency/log"
 )
 
 type compiler struct {

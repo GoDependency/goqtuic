@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/nanitefactory/goqtuic/parser"
+	"github.com/godependency/goqtuic/parser"
 )
 
 func translateUIFile(uiFile string, destDir string, testGoFile string) error {

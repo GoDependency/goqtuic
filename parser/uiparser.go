@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	xmlx "github.com/nanitefactory/go-pkg-xmlx"
+	xmlx "github.com/godependency/go-pkg-xmlx"
 )
 
 type parser struct {
